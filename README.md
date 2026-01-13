@@ -1,5 +1,5 @@
 
-<!-- <div align="center">
+<div align="center">
   <br />
     <a href="https://github.com/yourusername/repo-name">
       <img src="https://img.shields.io/badge/Portfolio-v2.0-00f3ff?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio v2.0">
@@ -7,40 +7,6 @@
   <br />
 
   <h1 align="center">NexGen AI-Powered Portfolio v2.0</h1>
-
-  <p align="center">
-    A futuristic, high-performance portfolio website featuring <strong>Glassmorphism</strong>, <strong>AI Integrations</strong>, and <strong>Fluid Animations</strong>.
-    <br />
-    Built with React, TypeScript, Tailwind CSS, and Framer Motion.
-  </p>
-
-  <p align="center">
-    <a href="#-visual-showcase">View Screenshots</a> •
-    <a href="#-getting-started">Getting Started</a> •
-    <a href="#-tech-stack">Tech Stack</a>
-  </p>
-</div> -->
-
-<div align="center">
-  <br />
-  
-  <!-- 
-    DYNAMIC LOGO CREATION 
-    This uses Readme-Typing-SVG to generate your logo on the fly.
-    It matches your website's header style: Bold Name + Code-style Subtitle.
-  -->
-  <a href="https://github.com/yourusername/repo-name">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&size=60&duration=1&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&height=100&lines=MUHAMMAD" alt="MUHAMMAD" />
-  </a>
-  
-  <br />
-  
-  <!-- Subtitle with Typing Animation -->
-  <a href="https://github.com/yourusername/repo-name">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=50&lines=Portfolio+v2.0;Senior+Frontend+Engineer;Powered+by+React+%2B+AI" alt="Subtitle" />
-  </a>
-
-  <br />
 
   <p align="center">
     A futuristic, high-performance portfolio website featuring <strong>Glassmorphism</strong>, <strong>AI Integrations</strong>, and <strong>Fluid Animations</strong>.
