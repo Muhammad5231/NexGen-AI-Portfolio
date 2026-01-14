@@ -52,7 +52,7 @@ This is not just a static portfolio; it's an immersive web experience. It bridge
 ### 🏠 Home & Hero Section
 *Featuring a typewriter effect and animated background blobs.*
 
-![Home Page Screenshot](PLACE_YOUR_HOME_SCREENSHOT_LINK_HERE)
+![Home Page Screenshot](./ScreenShot/Showcase (Home Page).png)
 
 <br />
 
