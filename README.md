@@ -1,7 +1,7 @@
 
 <div align="center">
   <br />
-    <a href="https://github.com/yourusername/repo-name">
+    <a href="https://github.com/Muhammad5231/NexGen-AI-Portfolio">
       <img src="https://img.shields.io/badge/Portfolio-v2.0-00f3ff?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio v2.0">
     </a>
   <br />
@@ -52,7 +52,12 @@ This is not just a static portfolio; it's an immersive web experience. It bridge
 ### 🏠 Home & Hero Section
 *Featuring a typewriter effect and animated background blobs.*
 
-![Home Page Screenshot](./ScreenShot/Showcase (Home Page).png)
+<div align="center">
+  <br />
+    <a href="https://github.com/Muhammad5231/NexGen-AI-Portfolio">
+      <img src="[https://img.shields.io/badge/Portfolio-v2.0-00f3ff?style=for-the-badge&logo=react&logoColor=black](https://github.com/user-attachments/assets/c3b10753-b6e1-42db-9be3-245be92e6412)" alt="Home Page">
+    </a>
+  <br />
 
 <br />
 
@@ -108,7 +113,7 @@ Follow these steps to set up the project locally.
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/nexgen-portfolio.git
+    git clone https://github.com/Muhammad5231/NexGen-AI-Portfolio.git
     cd nexgen-portfolio
     ```
 
