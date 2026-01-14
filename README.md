@@ -52,40 +52,28 @@ This is not just a static portfolio; it's an immersive web experience. It bridge
 ### 🏠 Home & Hero Section
 *Featuring a typewriter effect and animated background blobs.*
 
-<div align="center">
-  <br />
-    <a href="https://github.com/Muhammad5231/NexGen-AI-Portfolio">
-      <img src="[https://img.shields.io/badge/Portfolio-v2.0-00f3ff?style=for-the-badge&logo=react&logoColor=black](https://github.com/user-attachments/assets/c3b10753-b6e1-42db-9be3-245be92e6412)" alt="Home Page">
-    </a>
-  <br />
+  <img src="https://github.com/user-attachments/assets/c3b10753-b6e1-42db-9be3-245be92e6412" alt="Home Page">
 
 <br />
 
 ### 👨‍💻 About Me (Tilted Card Effect)
 *Dynamic tilted profile image with a rotating background carousel.*
 
-![About Page Screenshot](PLACE_YOUR_ABOUT_SCREENSHOT_LINK_HERE)
+<img src="https://github.com/user-attachments/assets/5edd29f0-5f37-4406-895e-93a8f9f6946a" alt="About Page">
 
 <br />
 
 ### 📂 Project Documentation Modal
 *A unique, documentation-style modal system with sidebar navigation.*
 
-![Project Modal Screenshot](PLACE_YOUR_PROJECT_MODAL_SCREENSHOT_LINK_HERE)
+<img src="https://github.com/user-attachments/assets/16f9024c-2ebb-40cc-a42b-2d66234ac440" alt="Project Page">
 
 <br />
 
 ### 📝 Blog & Insights (Detached Modal)
 *Floating glassmorphism modal for reading articles without leaving the page.*
 
-![Blog Modal Screenshot](PLACE_YOUR_BLOG_SCREENSHOT_LINK_HERE)
-
-<br />
-
-### ☀️ Light Mode Experience
-*A clean, professional look for daytime browsing.*
-
-![Light Mode Screenshot](PLACE_YOUR_LIGHT_MODE_SCREENSHOT_LINK_HERE)
+<img src="https://github.com/user-attachments/assets/b89108a5-ec43-4471-a933-d3c6ac745365" alt="Blog Page">
 
 ---
 
